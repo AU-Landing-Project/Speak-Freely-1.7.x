@@ -1,0 +1,12 @@
+.speak_freely_warning {
+	margin: 15px;
+	padding: 10px;
+	border: 2px solid red;
+	background-color: #EFACAC;
+	color: black;
+	font-weight: bold"	
+}
+
+#speak_freely_name_field {
+	width: 200px;	
+}
